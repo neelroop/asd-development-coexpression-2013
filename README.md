@@ -2,6 +2,9 @@
 
 This code was originally posted at:
 https://horvath.genetics.ucla.edu/html/CoexpressionNetwork/developingcortex/
+Update: This link may no longer work. Please use:
+https://zenodo.org/records/11290015
+to find the input file instead.
 
 ## Manuscript
 Parikshak, N. N., Luo, R., Zhang, A., Won, H., Lowe, J. K., Chandran, V., Horvath S., Geschwind D.H. (2013). Integrative Functional Genomic Analyses Implicate Specific Molecular Pathways and Circuits in Autism. Cell, 155(5), 1008–1021. doi:10.1016/j.cell.2013.10.031 PMCID: PMC3107252
